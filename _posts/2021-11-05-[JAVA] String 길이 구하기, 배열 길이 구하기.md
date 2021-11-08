@@ -4,8 +4,6 @@ title: [JAVA] String 길이 구하기, 배열 길이 구하기
 layout: single
 ---
 
-# [JAVA] String 길이 구하기, 배열 길이 구하기
-
 생성일: 2021년 11월 5일 오전 8:45
 
 프로그래머스 문제를 푸는데 생각지도 못한 부분에서 에러가 떴다.
@@ -49,4 +47,4 @@ System.out.println(list.size());
 
 :길이 구하는 메소드가 아니라 비트수 반환하는 메소드니 주의!
 
-![Untitled](%5BJAVA%5D%20String%20%E1%84%80%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%B5%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5,%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%80%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%B5%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2092185629d95847c9981b36bd944257ab/Untitled.png)
+![image](https://user-images.githubusercontent.com/58998646/140760199-f7ab28b4-3971-4f4e-9282-6498969c297c.png)
