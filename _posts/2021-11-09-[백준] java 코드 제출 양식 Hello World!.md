@@ -8,15 +8,15 @@ title: "[백준] java 코드 제출 양식 Hello World!"
 
 백준 2557번: Hello World! 출력 문제
 
-단순 문구 출력이라 이걸 누가 틀리나 생각했는데
+단순 문구 출력이라 당연히 맞을 줄 알았는데 
 
 ![image](https://user-images.githubusercontent.com/58998646/140904363-ec213bd4-e3c4-4943-a4a7-f16b946a8358.png)
 
-많이 틀렸다.
+틀렸다.
 
 ![image](https://user-images.githubusercontent.com/58998646/140904292-2323c0a0-7078-486c-84d0-fc7a51c6ebc5.png)
 
-이유는 양식대로 코드 제출하지 않아서이다.
+백준 제출 양식대로 코드를 작성해야한다.
 
 ```java
 // 백준 java 코드 제출 양식
