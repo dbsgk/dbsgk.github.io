@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "xshell오류:The remote SSH server rejected X11 forwarding request"
+title: xshell오류:The remote SSH server rejected X11 forwarding request
 ---
 
 ![image](https://user-images.githubusercontent.com/58998646/140760069-22b49ffd-13f5-4a6e-96cc-6090a793b46e.png)
