@@ -6,9 +6,7 @@
 4. settle:  합의하다, 정착하다
 5. sole: 유일한
 6. security flaw: 보안 허점
-7. vulnerabilities
-8. vendors
+7. vulnerabilities: 취약점
+8. vendor: 판매사
 9. disclosure policy: 공개 정책
 10. come under fire: 비난을 받다
-11. deserve to V
-12. ruin
