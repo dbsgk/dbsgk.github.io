@@ -47,4 +47,4 @@ Apple scrambled to fix the bug that allowed this. but officially ignored George 
     1. B
     2. 전세계 사용자의 인터넷 사용 만족도를 높이기 위해서
 - 토론해보기
-    - 프로젝트 제로의 선한 의도가 소프트웨어를 개발한 단체나 개인의
+    - 프로젝트 제로의 선한 의도가 소프트웨어를 개발한 단체나 개인의 비협조로 인한 제로-데이 공격 형태로 바뀌어 사람들을 위험에 빠트릴 가능성에 대해 생각.
