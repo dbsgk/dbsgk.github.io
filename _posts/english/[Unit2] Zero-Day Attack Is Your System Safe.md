@@ -59,21 +59,21 @@
 
 ## Step4. 손으로 써서 익히기
 
-1. vulnerability point flaws
+1. vulnerability ~~point flaws~~ ***refers to a flaw***
 2. presence of a vulnerability,
-3. affect harm
-4. state, has vulnerability
-5. On the other hand, attack, dangerous
-6. vulnerability, act
-7. be exploit, take advantage for a vulnerability
-8. hackers use vulnerability
-9. access to, exploit code
+3. ~~affect~~  ***cause*** harm
+4. state, ~~has vulnerability~~ ***being vulnerable***
+5. On the other hand, ~~attack~~ ***exploit***, dangerous
+6. ~~vulnerability~~ ***Exploiting***, act
+7. ~~be exploit~~ ***of abusing***, ~~take~~ ***taking*** advantage ~~for~~ ***of*** a vulnerability
+8. ~~hackers use vulnerability~~ ***Attackers exploit vulnerabilities***
+9. ~~access to~~ ***gain access***, exploit code
 10. exploit code
-11. shorten, exploition
+11. shorten**ed**, ~~exploition~~ ***exploit***
 12. Simply put, vulnerability, hole
-13. exploition, code, break in
-14. using that hole
-15. On now, vulnerability, exploit
+13. ***exploit***~~ion~~, code, break in**to**
+14. ~~using that~~ ***through the*** hole
+15. ~~On now~~ ***Now that***, vulnerability, exploit
 16. It's, to
 17. zero-day
 
