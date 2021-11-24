@@ -29,7 +29,7 @@ Apple scrambled to fix the bug that allowed this. but officially ignored George 
 10. come under fire: 비난을 받다
 11. grace period: 유예 기간
 
-## Step4. 손으로 써서 익히기
+## Step4. 손을써서 읽히기
 
 1. in secret
 2. ~~officially~~ *publically* reveal 
@@ -41,7 +41,7 @@ Apple scrambled to fix the bug that allowed this. but officially ignored George 
 8. free to hack
 9. policy
 
-## Step5. 문제 풀고 생각해보기
+## Step5. 문제풀고 생각해보기
 
 - 문제풀기
     1. B

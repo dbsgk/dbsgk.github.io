@@ -55,34 +55,3 @@
 12. vulnerability window: 취약성 윈도우. (=취약성을 처음으로 악용하는 시점과 개발자들이 위협에 대응하기 위한 보안 패치를 개발해 배포하는 시점 사이에 존재하는 기간)
     
     *제로-데이 공격: 개발자가 패치를 개발/배포하기 전에 공격자가 선수치는 경우.
-    
-
-## Step4. 손으로 써서 익히기
-
-1. vulnerability point flaws
-2. presence of a vulnerability,
-3. affect harm
-4. state, has vulnerability
-5. On the other hand, attack, dangerous
-6. vulnerability, act
-7. be exploit, take advantage for a vulnerability
-8. hackers use vulnerability
-9. access to, exploit code
-10. exploit code
-11. shorten, exploition
-12. Simply put, vulnerability, hole
-13. exploition, code, break in
-14. using that hole
-15. On now, vulnerability, exploit
-16. It's, to
-17. zero-day
-
-## Step5. 문제 풀고 생각해보기
-- 문제풀기
-    1) b
-
-    2) a
-
-    3) 더이상 방어하지 않으니까
-
-    4) 함부로 다운로드 하지 않기.
