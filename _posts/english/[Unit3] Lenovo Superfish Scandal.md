@@ -43,3 +43,15 @@
 → **만약** "당신은 안전합니다"라는 메시지가 보이지 않는**다면**, 당신은 감염된 것이다.
 2. LastPass has created a web tool to quickly verify **if/whether** your computer is infected.
 → LastPass는 당신의 컴퓨터가 감염되었**는지 아닌지** 재빨리 검증하는 웹 툴을 만들었다.
+
+
+
+## Step3. 문제 풀고 생각해보기
+- 문제풀기
+    1) c
+
+    2) b
+
+    3) 정보를 가로채니까
+
+    4) 미리 설치되지 않은 컴을 산다
