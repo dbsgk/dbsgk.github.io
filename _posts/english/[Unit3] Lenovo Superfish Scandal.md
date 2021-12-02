@@ -55,3 +55,15 @@
     3) 정보를 가로채니까
 
     4) 미리 설치되지 않은 컴을 산다
+
+    
+## Step4. 손으로 써서 익히기
+
+1. adware
+2. ads or advertisements
+3. adware advertisements
+4. adware, annoying, malware
+5. security experts malware
+6. bad kind
+7. fake, self-signed root ~~certification~~ ***certificates***
+8. hijack inject
