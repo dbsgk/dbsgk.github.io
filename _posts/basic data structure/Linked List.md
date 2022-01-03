@@ -28,3 +28,22 @@ public class Test {
 }
 
 ```
+
+#### LinkedList 값 삭제
+```java
+
+import java.util.Arrays;
+import java.util.LinkedList;
+
+public class Test {
+    public static void main(String[] args) {
+        LinkedList<Integer> list = new LinkedList<Integer>(Arrays.asList(1,2,3,4,5));
+        list.removeFirst(); //가장 앞의 데이터 제거
+        list.removeLast(); //가장 뒤의 데이터 제거
+        list.remove(); //생략시 0번째 index제거
+        list.remove(1); //index 1 제거
+        list.clear(); //모든 값 제거
+    }
+}
+
+```
