@@ -53,3 +53,5 @@ public class Test {
 ```
 
 추천문제: https://www.acmicpc.net/problem/10866
+
+참고: https://soft.plusblog.co.kr/24
